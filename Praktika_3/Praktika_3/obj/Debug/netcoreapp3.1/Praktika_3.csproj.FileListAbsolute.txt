@@ -1,0 +1,26 @@
+C:\Users\студент\source\repos\Praktika_3\Praktika_3\bin\Debug\netcoreapp3.1\Praktika_3.exe
+C:\Users\студент\source\repos\Praktika_3\Praktika_3\bin\Debug\netcoreapp3.1\Praktika_3.deps.json
+C:\Users\студент\source\repos\Praktika_3\Praktika_3\bin\Debug\netcoreapp3.1\Praktika_3.runtimeconfig.json
+C:\Users\студент\source\repos\Praktika_3\Praktika_3\bin\Debug\netcoreapp3.1\Praktika_3.runtimeconfig.dev.json
+C:\Users\студент\source\repos\Praktika_3\Praktika_3\bin\Debug\netcoreapp3.1\Praktika_3.dll
+C:\Users\студент\source\repos\Praktika_3\Praktika_3\bin\Debug\netcoreapp3.1\Praktika_3.pdb
+C:\Users\студент\source\repos\Praktika_3\Praktika_3\obj\Debug\netcoreapp3.1\Praktika_3.csprojAssemblyReference.cache
+C:\Users\студент\source\repos\Praktika_3\Praktika_3\obj\Debug\netcoreapp3.1\Praktika_3.AssemblyInfoInputs.cache
+C:\Users\студент\source\repos\Praktika_3\Praktika_3\obj\Debug\netcoreapp3.1\Praktika_3.AssemblyInfo.cs
+C:\Users\студент\source\repos\Praktika_3\Praktika_3\obj\Debug\netcoreapp3.1\Praktika_3.csproj.CoreCompileInputs.cache
+C:\Users\студент\source\repos\Praktika_3\Praktika_3\obj\Debug\netcoreapp3.1\Praktika_3.dll
+C:\Users\студент\source\repos\Praktika_3\Praktika_3\obj\Debug\netcoreapp3.1\Praktika_3.pdb
+C:\Users\студент\source\repos\Praktika_3\Praktika_3\obj\Debug\netcoreapp3.1\Praktika_3.genruntimeconfig.cache
+\\192.168.0.131\студент_доступ\!!!ИСиП\ИСиП 20-11-1\!Практика\!Оселедченко Данила\Praktika_3\Praktika_3\bin\Debug\netcoreapp3.1\Praktika_3.exe
+\\192.168.0.131\студент_доступ\!!!ИСиП\ИСиП 20-11-1\!Практика\!Оселедченко Данила\Praktika_3\Praktika_3\bin\Debug\netcoreapp3.1\Praktika_3.deps.json
+\\192.168.0.131\студент_доступ\!!!ИСиП\ИСиП 20-11-1\!Практика\!Оселедченко Данила\Praktika_3\Praktika_3\bin\Debug\netcoreapp3.1\Praktika_3.runtimeconfig.json
+\\192.168.0.131\студент_доступ\!!!ИСиП\ИСиП 20-11-1\!Практика\!Оселедченко Данила\Praktika_3\Praktika_3\bin\Debug\netcoreapp3.1\Praktika_3.runtimeconfig.dev.json
+\\192.168.0.131\студент_доступ\!!!ИСиП\ИСиП 20-11-1\!Практика\!Оселедченко Данила\Praktika_3\Praktika_3\bin\Debug\netcoreapp3.1\Praktika_3.dll
+\\192.168.0.131\студент_доступ\!!!ИСиП\ИСиП 20-11-1\!Практика\!Оселедченко Данила\Praktika_3\Praktika_3\bin\Debug\netcoreapp3.1\Praktika_3.pdb
+\\192.168.0.131\студент_доступ\!!!ИСиП\ИСиП 20-11-1\!Практика\!Оселедченко Данила\Praktika_3\Praktika_3\obj\Debug\netcoreapp3.1\Praktika_3.csprojAssemblyReference.cache
+\\192.168.0.131\студент_доступ\!!!ИСиП\ИСиП 20-11-1\!Практика\!Оселедченко Данила\Praktika_3\Praktika_3\obj\Debug\netcoreapp3.1\Praktika_3.AssemblyInfoInputs.cache
+\\192.168.0.131\студент_доступ\!!!ИСиП\ИСиП 20-11-1\!Практика\!Оселедченко Данила\Praktika_3\Praktika_3\obj\Debug\netcoreapp3.1\Praktika_3.AssemblyInfo.cs
+\\192.168.0.131\студент_доступ\!!!ИСиП\ИСиП 20-11-1\!Практика\!Оселедченко Данила\Praktika_3\Praktika_3\obj\Debug\netcoreapp3.1\Praktika_3.csproj.CoreCompileInputs.cache
+\\192.168.0.131\студент_доступ\!!!ИСиП\ИСиП 20-11-1\!Практика\!Оселедченко Данила\Praktika_3\Praktika_3\obj\Debug\netcoreapp3.1\Praktika_3.dll
+\\192.168.0.131\студент_доступ\!!!ИСиП\ИСиП 20-11-1\!Практика\!Оселедченко Данила\Praktika_3\Praktika_3\obj\Debug\netcoreapp3.1\Praktika_3.pdb
+\\192.168.0.131\студент_доступ\!!!ИСиП\ИСиП 20-11-1\!Практика\!Оселедченко Данила\Praktika_3\Praktika_3\obj\Debug\netcoreapp3.1\Praktika_3.genruntimeconfig.cache
